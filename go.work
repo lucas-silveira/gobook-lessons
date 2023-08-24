@@ -7,4 +7,5 @@ use (
 	./lissajous
 	./os-args
 	./server1
+	./server2
 )
