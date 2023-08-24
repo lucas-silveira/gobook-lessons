@@ -6,4 +6,5 @@ use (
 	./fetchall
 	./lissajous
 	./os-args
+	./server1
 )
