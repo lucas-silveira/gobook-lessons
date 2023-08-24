@@ -2,6 +2,7 @@ go 1.20
 
 use (
 	./dup
+	./fetch
 	./lissajous
 	./os-args
 )
